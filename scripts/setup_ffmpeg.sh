@@ -1,1 +1,0 @@
-yes | sudo apt install ffmpeg

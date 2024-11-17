@@ -1,0 +1,1 @@
+yes | sudo apt update && yes | sudo apt upgrade && yes | sudo apt install ffmpeg tesseract-ocr webp imagemagick && go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest && npm install && pip -r requirements.txt
