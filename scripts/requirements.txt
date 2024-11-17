@@ -1,0 +1,15 @@
+requests
+quart
+aiohttp
+google.generativeai
+Pillow
+urllib3
+pyquery
+websockets
+pytesseract
+sherlock-project
+pytubefix
+bs4
+booru
+python-dotenv
+git+https://github.com/Xtr4F/PyCharacterAI
